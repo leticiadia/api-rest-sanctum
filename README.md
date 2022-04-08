@@ -25,7 +25,7 @@
     ```bash 
         cd api-rest-sanctum
     ```
-3. Copy the <.env.example> file and rename it to <.env>
+3. Copy the .env.example file and rename it to .env
 
 4. Add all the values for the environment variables.
 
